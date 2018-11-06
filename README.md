@@ -1,3 +1,20 @@
+Rajeev Ravula
+
+###Build and Run:
+#####Through Maven:
+Run the following command inside the project folder,
+
+mvn clean compile exec:java -Dexec.mainClass="com.ibm.cloud.garage.cart.demo.ShoppingCartDemo"
+
+This command first cleans the target directory, compiles the classes and runs ShoppingDemo class as this is the Main class.
+
+#####Through IDE:
+Once project is imported into IDE, run the ShoppingCartDemo class as Java class.
+
+Note: All 3 inputs are taken as files and placed under src/main/resources folder. Demo class calls ShoppingCartService with each filename and generates the report.
+
+
+
 ## java code exercise
 
 ### We wish to gather a shared understanding of the team's skill-set.
