@@ -4,16 +4,16 @@
 
 #### When you do the exercise, take the following into consideration:
 
-* ability to follow these instructions;
-* attention to detail;
-* correct output;
-* simplicity;
-* readability;
-* test-driven development;
-* separation of concerns;
-* the “4 rules of simple design;”
+* ability to follow these instructions; 4 1 
+* attention to detail;4 1
+* correct output;4 1
+* simplicity;4 1
+* readability;4 2
+* test-driven development;2 1
+* separation of concerns;4 1
+* the 4 rules of simple design; 2 1
 * a README.md of explicit instructions detailing how to build and run your exercise; and
-* the timeliness of the completed exercise.
+* the timeliness of the completed exercise. 3 
 
 
 #### GOAL:
